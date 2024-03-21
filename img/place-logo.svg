@@ -1,0 +1,23 @@
+<svg fill="none" height="32" viewBox="0 0 32 32" width="32"
+  xmlns="http://www.w3.org/2000/svg">
+  <g fill="#ff4500">
+    <path d="m6.4 0h-6.4v6.4h6.4z"/>
+    <path d="m12.8 0h-6.4v6.4h6.4z"/>
+    <path d="m19.2 0h-6.4v6.4h6.4z"/>
+    <path d="m25.6 0h-6.4v6.4h6.4z"/>
+    <path d="m32 6.4h-6.4v6.4h6.4z"/>
+    <path d="m32 12.8h-6.4v6.4h6.4z"/>
+    <path d="m32 19.2h-6.4v6.4h6.4z"/>
+    <path d="m32 25.6h-6.4v6.4h6.4z"/>
+    <path d="m19.2 25.6h-6.4v6.4h6.4z"/>
+    <path d="m25.6 25.6h-6.4v6.4h6.4z"/>
+    <path d="m6.4 25.6h-6.4v6.4h6.4z"/>
+  </g>
+  <path d="m19.2 12.8h-6.4v6.4h6.4z" fill="#000"/>
+  <g fill="#ff4500">
+    <path d="m6.4 19.2h-6.4v6.4h6.4z"/>
+    <path d="m6.4 12.8h-6.4v6.4h6.4z"/>
+    <path d="m6.4 6.4h-6.4v6.4h6.4z"/>
+  </g>
+  <path d="m19.2 6.4h-12.8v25.6h6.4v-6.4h12.8v-19.2zm0 12.8h-6.4v-6.4h6.4z" fill="#fff"/>
+</svg>
